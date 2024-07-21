@@ -3,7 +3,7 @@
 
 ## What's New
 
-- We support **arbitrary number** of views for multi-view clustering and classification tasks. See [2022-TPAMI-DCP](2022-TPAMI-DCP) for more details.
+- We support **arbitrary number** of views for multi-view clustering and classification tasks. See [2022-TPAMI-DCP](https://github.com/XLearning-SCU/2022-TPAMI-DCP) for more details.
 
 ## Intro
 This repo contains the code and data of our CVPR'2021 paper Completer: Incomplete Multi-view Clustering via Contrastive Prediction and that of our IEEE TPAMI'2022 paper Dual Contrastive Prediction for Incomplete Multi-view Representation Learning. 
