@@ -73,3 +73,24 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
+## Create a Conda Virtual Environment.
+```bash
+conda create --name .venv python=3.6
+```
+
+## Activate Conda Environment.
+```bash
+conda activate .venv
+```
+
+## Install required packages.
+```bash
+- pip install torch==1.2.0 torchvision==0.4.0 -f https://download.pytorch.org/whl/cpu/torch_stable.html
+
+- conda install --yes --file requirements.txt
+```
+
+## Run The code.
+```bash
+python run.py --dataset 0 --devices 0 --print_num 100 --test_time 5
+```
